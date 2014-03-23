@@ -1,55 +1,31 @@
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title 
 
 pygments: true
 
-title : Gowanda, NY
+title : Gowanda Theater
 tagline: 
 author :
-  name : Canopy Maps
-  email : ngunner@canopymaps.com
-  github : canopymaps
+  name : Nicholas Gunner
+  email : gunnernr@gmail.com
+  github : ngunner
   twitter : canopymaps
-  web : http://www.canopymaps.com
+  web : http://www.nicholasgunner.com
 
-production_url : http://canopymaps.githup.io/gowanda
+production_url : http://nicholasgunner.github.io/gowanda-theater
 
-version : 0.3.0
 
-baseurl : http://canopymaps.github.io/gowanda
+baseurl : http://nicholasgunner.github.io/gowanda-theater
 
  
 comments :
   provider : disqus
   disqus :
-    short_name : canopymaps
-   
-  # Settings for analytics helper
-  # Set 'provider' to the analytics provider you want to use.
-  # Set 'provider' to false to turn analytics off globally.
-  #        
+    short_name : 
+        
 analytics :
   provider : google 
   google : 
     tracking_id : 'UA-46443510-2'
-
-  # Settings for sharing helper. 
-  # Sharing is for things like tweet, plusone, like, reddit buttons etc.
-  # Set 'provider' to the sharing provider you want to use.
-  # Set 'provider' to false to turn sharing off globally.
-  #
-sharing :
-  provider : false
-    
-  # Settings for all other include helpers can be defined by creating 
-  # a hash with key named for the given helper. ex:
-  #
-  #   pages_list :
-  #     provider : "custom"   
-  #
-  # Setting any helper's provider to 'custom' will bypass the helper code
-  # and include your custom code. Your custom file must be defined at:
-  #   ./_includes/custom/[HELPER]
-  # where [HELPER] is the name of the helper you are overriding.
   
 authors:
   ngunner:
