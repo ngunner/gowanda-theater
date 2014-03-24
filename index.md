@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Home
 published: true
 publishDate: March 23, 2014
-title: The Hollywood Theater
+title: Gowanda's Hollywood Theater
 description: This vaudeville theater served as a major community center for Gowanda and the surrounding area in the mid 20th century until it fell on hard times and was abandoned. Since 1994 community members have been trying to bring the theater back. 
 tags :
  -Gowanda
