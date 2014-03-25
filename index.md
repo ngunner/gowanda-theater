@@ -9,7 +9,7 @@ tags :
  -Theater
 author: ngunner
 featuredImage : http://farm4.staticflickr.com/3734/12455996865_35ee6a25ec_h.jpg
-autoVideo : <iframe src="//player.vimeo.com/video/85271171?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+autoVideo : <iframe src="//player.vimeo.com/video/90051389?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 tours:
  - title: The House
    url: http://canopymaps.s3.amazonaws.com/gowanda/theater/360/main.html
